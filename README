@@ -1,0 +1,8 @@
+20.11.2013
+
+Parse a log file for specific entries.
+Rememeber the position in the log file. (save to another file)
+On next run, read the position and continue from there.
+
+TODO: try to find the old log in case logrotate moved it to
+ensure all log entries have been parsed
